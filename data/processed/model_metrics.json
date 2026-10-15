@@ -1,0 +1,63 @@
+{
+  "n_listings": 5138,
+  "n_train": 4110,
+  "n_test": 1028,
+  "baseline_global_median": {
+    "r2_log_price": -0.003,
+    "mae_gbp": 105.4,
+    "median_abs_error_gbp": 79.2,
+    "median_abs_pct_error": 35.5
+  },
+  "baseline_neighbourhood_roomtype_median": {
+    "r2_log_price": 0.428,
+    "mae_gbp": 83.7,
+    "median_abs_error_gbp": 52.0,
+    "median_abs_pct_error": 25.9
+  },
+  "ols_fixed_effects_only": {
+    "r2_log_price": 0.651,
+    "mae_gbp": 63.2,
+    "median_abs_error_gbp": 36.7,
+    "median_abs_pct_error": 18.8
+  },
+  "mixed_model_with_neighbourhood_effects": {
+    "r2_log_price": 0.662,
+    "mae_gbp": 62.5,
+    "median_abs_error_gbp": 36.6,
+    "median_abs_pct_error": 18.9
+  },
+  "share_of_unexplained_variance_between_neighbourhoods": 0.086,
+  "gbm_best_params": {
+    "subsample_freq": 1,
+    "subsample": 0.7,
+    "reg_lambda": 5.0,
+    "num_leaves": 24,
+    "min_child_samples": 10,
+    "learning_rate": 0.02,
+    "colsample_bytree": 0.7
+  },
+  "gbm_test": {
+    "r2_log_price": 0.741,
+    "mae_gbp": 53.1,
+    "median_abs_error_gbp": 32.4,
+    "median_abs_pct_error": 16.6
+  },
+  "gbm_unseen_neighbourhoods_groupcv": {
+    "r2_log_price": 0.717,
+    "mae_gbp": 56.5,
+    "median_abs_error_gbp": 33.4,
+    "median_abs_pct_error": 16.6
+  },
+  "gbm_listing_attributes_only_test": {
+    "r2_log_price": 0.694,
+    "mae_gbp": 57.8,
+    "median_abs_error_gbp": 33.5,
+    "median_abs_pct_error": 17.7
+  },
+  "gbm_5fold_oof": {
+    "r2_log_price": 0.728,
+    "mae_gbp": 55.4,
+    "median_abs_error_gbp": 32.5,
+    "median_abs_pct_error": 15.9
+  }
+}

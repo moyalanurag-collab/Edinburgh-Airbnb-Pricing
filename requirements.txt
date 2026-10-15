@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+lightgbm>=4.3
+shap>=0.45
+statsmodels>=0.14
+folium>=0.16
+branca>=0.7
+matplotlib>=3.8
+pytest>=8.0

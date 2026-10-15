@@ -1,0 +1,44 @@
+feature,mean_abs_shap,label,approx_pct_swing
+room_type,0.13960586470910305,Room type,15.0
+accommodates,0.11319165154268723,Guests accommodated,12.0
+bedrooms_n,0.10834771278330446,Bedrooms,11.4
+dist_centre_km,0.07805292599244147,Distance to Old Town (km),8.1
+reviews_per_month_n,0.058337778704355914,Reviews per month,6.0
+availability_365_n,0.043132584994928995,Days available (next 365),4.4
+review_scores_location_n,0.03318807173371598,Rating (location),3.4
+n_reviews,0.03135996458310874,Number of reviews,3.2
+neighbourhood,0.0312190352546848,Neighbourhood,3.2
+min_nights,0.030269683982957606,Minimum nights,3.1
+bathrooms_n,0.02925063965023092,Bathrooms,3.0
+review_scores_cleanliness_n,0.026591038975655724,Rating (cleanliness),2.7
+latitude,0.023944707207653886,Latitude,2.4
+shared_bathroom,0.02371632666675968,Shared bathroom,2.4
+longitude,0.020781424992199708,Longitude,2.1
+review_scores_rating_n,0.01958749109843323,Rating (overall),2.0
+has_dishwasher,0.01891039335845166,Dishwasher,1.9
+review_scores_value_n,0.017845308209188074,Rating (value),1.8
+has_licence_field,0.015498840446351353,Licence number shown,1.6
+building_type,0.013494978866485203,Building type,1.4
+host_years,0.013224126752600866,Host experience (years),1.3
+n_amenities,0.010268198497766853,Number of amenities,1.0
+has_fireplace,0.008954825534470953,Fireplace,0.9
+host_listings,0.008240618378426058,Host's listings,0.8
+beds_n,0.007271976388325245,Beds,0.7
+has_dryer,0.006119508283661264,Dryer,0.6
+has_parking,0.0032635046190796564,Parking,0.3
+is_superhost,0.0027591671932593997,Superhost,0.3
+has_wifi,0.0026064558596277597,Wifi,0.3
+has_kitchen,0.0024388278523677885,Kitchen,0.2
+has_washer,0.0023559194898497685,Washer,0.2
+has_self_checkin,0.0022773007957872207,Self checkin,0.2
+has_crib,0.0018668617662895542,Crib,0.2
+has_workspace,0.0010031810698051004,Workspace,0.1
+has_lift,0.0006110865109715954,Lift,0.1
+multi_listing_host,0.0004506509276527632,Multi-listing host,0.0
+has_air_con,0.00043506177055344276,Air con,0.0
+has_bbq,0.0003773369309893095,Bbq,0.0
+has_pool,0.00017766120291667152,Pool,0.0
+has_gym,0.00016872447569266362,Gym,0.0
+has_reviews,8.415686025132967e-05,Has reviews,0.0
+has_hot_tub,8.192867603872841e-05,Hot tub,0.0
+has_ev_charger,7.751485884190389e-05,Ev charger,0.0

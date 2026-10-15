@@ -1,0 +1,112 @@
+neighbourhood,listings,median_price,mean_log_price,premium_pct_vs_city,reliable
+"Dalmeny, Kirkliston and Newbridge",28,289.75,5.632464726248101,32.4,True
+New Town West,176,316.0,5.773289908354903,20.7,True
+Murrayfield and Ravelston,22,200.66500000000002,5.477610572923207,17.2,True
+"Ratho, Ingliston and Gogar",41,178.0,5.263075984711942,17.1,True
+Balerno and Bonnington Village,15,184.67,5.320991910817776,15.9,True
+East Craigs North,7,216.5,5.258716633881309,15.7,False
+Clermiston and Drumbrae,8,159.5,5.3406546421380465,15.5,False
+Slateford and Chesser,32,213.06,5.385574429136087,14.0,True
+Deans Village,348,253.5,5.545772787305619,13.7,True
+Blackhall,15,190.0,5.303610642320759,13.0,True
+Marchmont West,40,281.065,5.628591797473269,12.6,True
+Stockbridge,117,243.0,5.467619510149492,11.8,True
+"Craigleith, Orchard Brae and Crewe Toll",21,189.0,5.419874597466828,11.4,True
+Canonmills and New Town North,68,241.5,5.5412950997535795,11.0,True
+Queensferry West,7,180.0,5.2033213501445115,10.3,False
+Granton and Royston Mains,34,194.5,5.228574878273032,9.3,True
+Craigentinny,6,332.0,5.70358288536908,8.7,False
+Tollcross,283,257.0,5.599655373226468,8.7,True
+Duddingston and Portobello South,24,174.5,5.336841270690074,8.2,True
+Stenhouse and Saughton Mains,29,191.7,5.220125075222189,7.1,True
+Joppa,21,198.0,5.2868250007833035,6.3,True
+New Town East and Gayfield,148,273.77,5.604193450523315,6.2,True
+Corstorphine South,16,127.5,5.092407121506566,5.9,True
+Liberton East,4,178.0,5.15626432122909,5.1,False
+"Old Town, Princes Street and Leith Street",635,272.0,5.629864110837835,4.6,True
+Comiston and Swanston,6,217.5,5.337802884941759,4.1,False
+Gorgie West,30,151.5,5.154737753611572,3.8,True
+Queensferry East,17,201.5,5.121848441878409,3.7,True
+"Inverleith, Goldenacre and Warriston",26,220.16500000000002,5.320633747956572,2.9,True
+"Barnton, Cammo and Cramond South",2,314.0,5.485777359688038,2.7,False
+Bonaly and The Pentlands,14,147.51999999999998,5.002700710948845,2.6,True
+Comely Bank,35,237.4,5.395650402066736,2.6,True
+Gilmerton South and the Murrays,46,133.0,4.982109999415758,2.5,True
+Hillside and Calton Hill,163,229.0,5.471567901336574,2.5,True
+Willowbrae and Duddingston Village,26,216.08499999999998,5.376020765837519,2.2,True
+Granton South and Wardieburn,5,75.33,4.385679540062412,2.1,False
+Western Harbour and Leith Docks,47,193.0,5.279301474551733,1.9,True
+Cramond,8,198.66500000000002,5.420923934052517,1.8,False
+Morningside,23,206.2,5.368889976542238,1.8,True
+Marchmont East and Sciennes,59,221.82,5.410916996062934,1.6,True
+Balgreen and Roseburn,25,171.5,5.1756100772013145,1.4,True
+East Craigs South,17,171.0,5.304581187818348,0.9,True
+The Shore and Constitution Street,76,195.75,5.323681227250544,0.7,True
+Currie East,5,167.5,5.231527485545291,0.7,False
+Portobello,45,148.0,5.07338854965377,0.6,True
+South Gyle,25,150.0,5.162762734281378,0.5,True
+Prestonfield,22,178.5,5.1982266678733815,0.5,True
+Newington and Dalkeith Road,77,179.0,5.347000319487734,0.4,True
+Shandon,34,196.05,5.323755108469081,0.3,True
+Liberton West and Braid Hills,17,132.5,5.092272953162177,0.3,True
+Trinity,21,210.5,5.223264960365385,0.2,True
+Mortonhall and Anwickhill,1,156.5,5.053056009980208,0.2,False
+Broughton North and Powderhall,80,206.83499999999998,5.31993086126931,-0.1,True
+Bruntsfield,57,202.0,5.323538919754751,-0.2,True
+Oxgangs,3,112.5,4.88045954884827,-0.8,False
+Meadows and Southside,114,219.75,5.365970755114109,-1.0,True
+Parkhead and Sighthill,8,205.75,5.1796107649905325,-1.1,False
+North Leith and Newhaven,57,160.0,5.115231613850362,-1.3,True
+Craiglockhart,24,167.5,5.129388082529786,-1.5,True
+Merchiston and Greenhill,30,201.75,5.315192802061591,-1.6,True
+"Jewel, Brunstane and Newcraighall",8,184.08499999999998,5.067227006692916,-2.0,False
+Easter Road and Hawkhill Avenue,55,204.0,5.24805234448911,-2.2,True
+Trinity East and The Dudleys,17,210.0,5.439470431974691,-2.4,True
+Dalry and Fountainbridge,150,224.25,5.391262942106083,-2.5,True
+Corstorphine,30,152.5,5.091768631591502,-2.6,True
+Mountcastle,9,180.5,5.227401051278762,-2.6,False
+Corstorphine North,10,109.0,4.939831702844655,-2.8,True
+The Grange,50,157.3,5.1592117193155556,-3.1,True
+Great Junction Street,68,184.3,5.202274332795322,-3.3,True
+Restalrig (Loganlea) and Craigentinny West,12,156.75,5.061701005628101,-3.3,True
+South Leith,95,176.33,5.182198194165163,-3.4,True
+Boswall and Pilton,33,136.0,4.925045349579841,-3.9,True
+Moredun and Craigour,11,130.0,4.877672819025232,-3.9,True
+Northfield and Piershill,15,152.0,4.995298017633077,-4.0,True
+Broughton South,119,200.0,5.312718087821896,-4.2,True
+Baberton and Juniper Green,10,113.505,4.837476395779288,-4.2,True
+"Bingham, Magdalene and The Christians",23,126.0,4.738739272111374,-4.2,True
+Broomhouse and Bankhead,8,176.5,5.104696887666479,-4.3,False
+Siverknowes and Davidson's Mains,16,153.33499999999998,5.109279610523996,-4.3,True
+Abbeyhill,93,209.65,5.338078898078898,-4.4,True
+"Blackford, West Mains and Mayfield Road",58,147.5,5.113143392110164,-4.6,True
+Drylaw,12,187.25,5.073679650733465,-4.8,True
+"Canongate, Southside and Dumbiedykes",187,246.0,5.515368328255331,-5.0,True
+Granton West and Salvesen,31,149.0,4.980973365074898,-5.0,True
+Craigmillar,25,201.5,5.269724603267864,-5.1,True
+Carrick Knowe,8,195.83499999999998,5.071475874989829,-5.1,False
+Meadowbank and Abbeyhill North,83,190.0,5.222503511365145,-5.1,True
+Greenbank and The Braids,3,125.8,4.85698776625724,-5.3,False
+Pilrig,68,170.0,5.176705884823598,-5.3,True
+Gorgie East,35,178.0,5.180540577779142,-5.3,True
+Morningside and Craighouse,19,180.0,5.236375040052344,-5.5,True
+Currie West,7,70.67,4.436694344736937,-5.5,False
+Leith (Hermitage and Prospect Bank),22,136.0,5.015126361792492,-5.9,True
+Colinton and Kingsknowe,13,150.0,4.894567843748822,-6.8,True
+Niddrie,20,189.0,5.212531185990988,-6.9,True
+Longstone and Saughton,9,115.0,4.85994103536003,-7.3,False
+Leith (Albert Street),60,185.0,5.147268625626801,-7.4,True
+Murrayburn and Wester Hailes North,7,71.0,4.427010167306146,-7.5,False
+Hyvots and Gilmerton,22,151.0,5.068883171125621,-7.7,True
+Fairmilehead,4,108.83500000000001,5.101012540085281,-7.8,False
+Polwarth,37,173.5,5.139156897548815,-7.8,True
+The Inch,13,161.07,5.035126221852308,-8.0,True
+West Pilton,16,93.3,4.736944984172905,-8.6,True
+The Calders,16,45.0,4.269853855495609,-8.8,True
+Bonnington,35,181.5,5.07908836413167,-9.2,True
+Fernieside and Moredun South,16,97.25,4.548439006813255,-9.6,True
+Muirhouse,31,102.6,4.662288562985956,-11.3,True
+"Gracemount, Southhouse and Burdiehouse",19,118.36,4.844126647649723,-12.4,True
+Restalrig and Lochend,18,162.0,5.03627035552987,-12.5,True
+Colinton Mains and Firrhill,13,90.0,4.543212929666073,-15.1,True
+Clovenstone and Wester Hailes,9,42.0,3.821848804187594,-16.8,False

@@ -1,0 +1,34 @@
+term,coef_log,pct_effect,ci_low_pct,ci_high_pct,p_value,interpretation
+C(room_type)[T.Private room],-0.3492,-29.4715,-32.1918,-26.642,0.0,% price change per unit / vs reference level
+C(building_type)[T.Flat / rental unit],-0.0284,-2.8036,-5.154,-0.3948,0.0228,% price change per unit / vs reference level
+C(building_type)[T.Guesthouse / cottage],0.0493,5.056,-0.4816,10.9018,0.0742,% price change per unit / vs reference level
+C(building_type)[T.House / other home],0.0392,3.9933,-0.2464,8.4131,0.0652,% price change per unit / vs reference level
+C(building_type)[T.Other],0.2284,25.6528,15.9373,36.1825,0.0,% price change per unit / vs reference level
+C(building_type)[T.Townhouse],0.1549,16.7596,7.9033,26.3428,0.0001,% price change per unit / vs reference level
+accommodates,0.068,7.036,5.4644,8.631,0.0,% price change per unit / vs reference level
+bedrooms_n,0.1038,10.9421,7.6814,14.3014,0.0,% price change per unit / vs reference level
+bathrooms_n,0.0677,7.0028,4.2573,9.8207,0.0,% price change per unit / vs reference level
+shared_bathroom,-0.134,-12.542,-16.437,-8.4653,0.0,% price change per unit / vs reference level
+np.log1p(dist_centre_km),-0.2478,-21.9518,-24.1726,-19.666,0.0,elasticity: +1% in variable -> ~coef_log % price
+n_amenities,-0.0002,-0.0163,-0.1317,0.0992,0.7822,% price change per unit / vs reference level
+is_superhost,0.0202,2.0395,-0.2804,4.4133,0.0853,% price change per unit / vs reference level
+multi_listing_host,-0.012,-1.1958,-3.4656,1.1274,0.3103,% price change per unit / vs reference level
+has_licence_field,0.085,8.8664,6.6779,11.0997,0.0,% price change per unit / vs reference level
+np.log(min_nights),-0.1015,-9.6522,-11.8913,-7.3562,0.0,elasticity: +1% in variable -> ~coef_log % price
+has_reviews,0.0849,8.8567,1.3195,16.9545,0.0204,% price change per unit / vs reference level
+np.log1p(n_reviews),-0.0713,-6.8851,-7.7806,-5.9808,0.0,elasticity: +1% in variable -> ~coef_log % price
+review_scores_rating_n,0.0793,8.2511,-1.4809,18.9444,0.099,% price change per unit / vs reference level
+review_scores_location_n,0.1678,18.2707,8.4962,28.9257,0.0001,% price change per unit / vs reference level
+review_scores_value_n,-0.1064,-10.0976,-17.7137,-1.7767,0.0184,% price change per unit / vs reference level
+review_scores_cleanliness_n,0.0612,6.3104,-3.7003,17.3618,0.2252,% price change per unit / vs reference level
+host_years,0.0077,0.7735,0.472,1.076,0.0,% price change per unit / vs reference level
+np.log1p(availability_365_n),0.0255,2.5879,1.6009,3.5844,0.0,elasticity: +1% in variable -> ~coef_log % price
+has_parking,0.0122,1.2323,-1.3144,3.8448,0.3461,% price change per unit / vs reference level
+has_hot_tub,0.0635,6.5595,-7.1682,22.3173,0.3666,% price change per unit / vs reference level
+has_air_con,-0.0582,-5.6563,-12.2952,1.4852,0.1178,% price change per unit / vs reference level
+has_workspace,0.0094,0.9396,-1.2511,3.179,0.4035,% price change per unit / vs reference level
+has_lift,-0.0025,-0.2543,-4.1927,3.846,0.9014,% price change per unit / vs reference level
+has_dishwasher,0.102,10.7372,8.2749,13.2555,0.0,% price change per unit / vs reference level
+has_ev_charger,0.0362,3.6818,-4.7155,12.8192,0.4014,% price change per unit / vs reference level
+has_gym,0.0443,4.5303,-4.1996,14.0557,0.3194,% price change per unit / vs reference level
+has_fireplace,0.1084,11.4438,7.8325,15.1761,0.0,% price change per unit / vs reference level

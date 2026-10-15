@@ -1,0 +1,8 @@
+{
+  "rows_raw": 6342,
+  "dropped_missing_price": 1097,
+  "dropped_price_outside_20_1500": 20,
+  "dropped_long_stay_over_28_nights": 21,
+  "dropped_hotel_or_shared_room": 34,
+  "rows_model_ready": 5138
+}
